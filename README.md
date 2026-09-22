@@ -1,6 +1,6 @@
 ﻿# RakshakAI
 
-RakshakAI is a hackathon-ready cyber-aware safety and welfare platform for senior citizens. This repository includes:
+RakshakAI is a cyber-aware safety and welfare platform for senior citizens. This repository includes:
 
 - `backend`: FastAPI APIs for SOS, fraud analysis, wellness, notifications, and dashboard data
 - `dashboard`: React + Tailwind police dashboard with live incident and fraud views
